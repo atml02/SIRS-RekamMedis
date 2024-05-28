@@ -11,9 +11,8 @@ Aplikasi yang jauh dari kata sempurna.Masih Banyak Hal yang harus Dilengkapi dal
 Biodata Diri
 *******************
 
-Nama	:Chairul Hamid
-Alamat	:Bukittinggi,Sumatera Barat
-Ig	:Chairul.hamid_
+Nama	:Agustiawan
+Alamat	:Palembang,Sumatera Selatan
 
 
 
